@@ -40,6 +40,6 @@ To provide students with an easy-to-use platform that recommends suitable career
 
 ppt is available 
 ## 👩‍💻 Developed By
-**Monisha V
+Monisha V
 
 Second Year – Electronics and communication Engineering
